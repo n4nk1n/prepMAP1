@@ -1,0 +1,3 @@
+coeficiente binomial
+reverso de uma string
+procurar substrign dentro de uma string
